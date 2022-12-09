@@ -381,7 +381,7 @@ input:focus{
 /* end home  */
 /* start about */
 .about{
-    background-image: url(/space-dynamic/images/about-bg.png);
+    background-image: url(../../space-dynamic/images/about-bg.png);
     background-position: center center;
     background-repeat: no-repeat;
     margin-top: calc(var(--padding));
@@ -1008,7 +1008,7 @@ input:focus{
 /* end blog */
 /* start contact  */
 .contact{
-    background-image: url(/space-dynamic/images/about-bg.png);
+    background-image: url(../../space-dynamic/images/about-bg.png);
     background-position-x: center ;
     background-repeat: no-repeat;
     padding-top: var(--padding);
