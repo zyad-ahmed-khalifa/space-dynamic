@@ -255,11 +255,11 @@ input:focus{
     z-index: -1;
 }
 .home:before{
-    content: url(/images/baner-dec-left.png);
+    content: url(../../space-dynamic/images/baner-dec-left.png);
     left: 0;
 }
 .home::after{
-    content: url(/images/baner-dec-right.png);
+    content: url(../../space-dynamic/images/baner-dec-right.png);
     right: 0;
 }
 .home .container{
@@ -1322,7 +1322,7 @@ input:focus{
 }
 /* end footer */
 /* start up_aroow */
-a.top{
+/* a.top{
     position: fixed;
     bottom: 20px;
     right: 20px;
@@ -1374,5 +1374,5 @@ a.top i{
     .footer{
         font-size: 16px;
     }
-}
+} */
 /* end up_aroow */
