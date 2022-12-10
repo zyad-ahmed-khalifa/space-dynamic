@@ -365,7 +365,7 @@ input:focus{
 }
 @media (max-width: 768px) {
     .home .container .input input{
-        padding: 30px 100px 30px 30px;
+        padding: 30px 80px 30px 20px;
     }
     .home .container .input button{
         padding: 10px 15px;
@@ -375,7 +375,13 @@ input:focus{
         width: 380px;
     }
     .home .container .input input:focus{
-        padding: 30px 100px 30px 30px;
+        padding: 30px 80px 30px 20px;
+    }
+    .home .container .input input::placeholder{
+        font-size: 14px;
+    }
+    .home .container .input button{
+        padding: 10px 15px;
     }
 }
 /* end home  */
