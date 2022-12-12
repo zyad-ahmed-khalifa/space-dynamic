@@ -1,2 +1,2 @@
 # space-dynamic
-second html and css project
+first responsive html and css project
