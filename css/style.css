@@ -182,7 +182,7 @@ input:focus{
         margin-right: 15px;
     }
 }
-@media (max-width: 767px) {
+@media (max-width: 768px) {
     .header .container nav a.contact{
         display: none;
     }
@@ -190,12 +190,12 @@ input:focus{
         margin-right: 15px;
     }
 }
-@media (min-width: 768px) {
+@media (min-width: 767px) {
     .header .container nav .icon{
         display: none;
     }
 }
-@media (max-width: 767px) {
+@media (max-width: 768px) {
     .header .container nav ul{
         display: none ;
     }
@@ -363,9 +363,10 @@ input:focus{
         padding: 30px 300px 30px 30px;
     }
 }
-@media (max-width: 767px) {
+@media (max-width: 768px) {
     .home .container .input input{
         padding: 30px 80px 30px 20px;
+        display: none;
     }
     .home .container .input button{
         padding: 10px 15px;
@@ -593,7 +594,7 @@ input:focus{
         right: 4%;
     }
 }
-@media (max-width:767px){
+@media (max-width:768px){
     .services .container .img img{
         width: 350px;
     }
@@ -971,7 +972,7 @@ input:focus{
         width: 90%;
 }
 }
-@media (max-width:767px){
+@media (max-width:768px){
     .blog .container .head h1{
         text-align: center;
     }
@@ -1227,7 +1228,7 @@ input:focus{
         width: unset;
     }
 }
-@media (max-width:767px){
+@media (max-width:768px){
     .contact .container .text{
         width: 300px;
     }
@@ -1322,7 +1323,7 @@ input:focus{
 }
 /* end footer */
 /* start up_aroow */
-/* a.top{
+a.top{
     position: fixed;
     bottom: 20px;
     right: 20px;
@@ -1374,5 +1375,5 @@ a.top i{
     .footer{
         font-size: 16px;
     }
-} */
+}
 /* end up_aroow */
