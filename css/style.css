@@ -365,7 +365,7 @@ input:focus{
 }
 @media (max-width: 768px) {
     .home .container .input input{
-        padding: 30px 80px 30px 20px;
+        padding: 20px 50px 20px 20px;
     }
     .home .container .input button{
         padding: 10px 15px;
@@ -378,10 +378,11 @@ input:focus{
         padding: 30px 80px 30px 20px;
     }
     .home .container .input input::placeholder{
-        font-size: 14px;
+        font-size: 11px;
     }
     .home .container .input button{
-        padding: 10px 15px;
+        padding: 5px 10px;
+        font-size: 12px;
     }
 }
 /* end home  */
@@ -1009,6 +1010,11 @@ input:focus{
         bottom: 30px;
         left: 10px;
         width: 100%;
+        font-size: 14px;
+    }
+    .blog .container .content .right .box .text h3{
+        font-size: 16px;
+        line-height: 1.5;
     }
 }
 /* end blog */
