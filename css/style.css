@@ -365,13 +365,13 @@ input:focus{
 }
 @media (max-width: 768px) {
     .home .container .input input{
-        padding: 20px 80px 20px 20px;
+        padding: 20px 90px 20px 20px;
         width: 70%;
     }
     .home .container .input button{
         padding: 10px 15px;
         font-size: 14px;
-        right: 7%;
+        right: 9%;
         top: 62%;
     }
     .home .container .img img{
