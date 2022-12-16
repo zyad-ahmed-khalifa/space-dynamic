@@ -371,10 +371,11 @@ input:focus{
     .home .container .input button{
         padding: 10px 15px;
         font-size: 14px;
-        right: 3%;
+        right: 5%;
+        top: 61%;
     }
     .home .container .img img{
-        width: 380px;
+        width: 350px;
     }
     .home .container .input input:focus{
         padding: 30px 50px 30px 20px;
